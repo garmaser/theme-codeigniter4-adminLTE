@@ -1,17 +1,46 @@
-*/config/development
-*/logs/log-*.php
-!*/logs/index.html
-*/cache/*
-!*/cache/index.html
-!*/cache/.htaccess
-
-user_guide_src/build/*
-user_guide_src/cilexer/build/*
-user_guide_src/cilexer/dist/*
-user_guide_src/cilexer/pycilexer.egg-info/*
-
-#codeigniter 3
-application/logs/*
-!application/logs/index.html
-!application/logs/.htaccess
+#codeigniter 4
+/docs/
 /vendor/
+/tests/
+/writable/
+/env
+/.env
+/LICENSE
+/phpunit.xml.dist
+/spark
+/builds
+/composer.json
+/composer.lock
+/.htaccess
+/index.html
+
+# carpeta app
+/app/Database/*
+/app/Models/*
+/app/Config/*
+/app/Libraries/*
+/app/Filters/*
+/app/Language/*
+/app/Helpers/*
+/app/Views/errors/*
+
+/app/Common.php
+/app/index.php
+/app/ThirdParty
+/app/index.html
+/app/.htaccess
+
+# carpeta /app/Controllers
+/app/Controllers/BaseController.php
+/app/Controllers/Home.php
+/app/Controllers/.gitkeep
+
+# carpeta public
+/public/favicon.ico
+/public/index.php
+/public/robots.txt
+/public/.htaccess
+
+# carpeta Views
+
+/app/Views/welcome_message.php
