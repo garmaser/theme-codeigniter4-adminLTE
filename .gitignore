@@ -32,7 +32,7 @@
 
 # carpeta /app/Controllers
 /app/Controllers/BaseController.php
-/app/Controllers/Home.php
+#/app/Controllers/Home.php
 /app/Controllers/.gitkeep
 
 # carpeta public
