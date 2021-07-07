@@ -146,49 +146,49 @@
             </a>
             <ul class="nav nav-treeview">
                 <li class="nav-item">
-                    <a href="<?=site_url('charts/general')?>" class="nav-link">
+                    <a href="<?=site_url('ui_elements/general')?>" class="nav-link">
                         <i class="far fa-circle nav-icon"></i>
                         <p>General</p>
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a href="<?=site_url('charts/icons')?>" class="nav-link">
+                    <a href="<?=site_url('ui_elements/icons')?>" class="nav-link">
                         <i class="far fa-circle nav-icon"></i>
                         <p>Icons</p>
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a href="<?=site_url('charts/buttons')?>" class="nav-link">
+                    <a href="<?=site_url('ui_elements/buttons')?>" class="nav-link">
                         <i class="far fa-circle nav-icon"></i>
                         <p>Buttons</p>
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a href="<?=site_url('charts/sliders')?>" class="nav-link">
+                    <a href="<?=site_url('ui_elements/sliders')?>" class="nav-link">
                         <i class="far fa-circle nav-icon"></i>
                         <p>Sliders</p>
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a href="<?=site_url('charts/modals')?>" class="nav-link">
+                    <a href="<?=site_url('ui_elements/modals')?>" class="nav-link">
                         <i class="far fa-circle nav-icon"></i>
                         <p>Modals & Alerts</p>
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a href="<?=site_url('charts/navbar')?>" class="nav-link">
+                    <a href="<?=site_url('ui_elements/navbar')?>" class="nav-link">
                         <i class="far fa-circle nav-icon"></i>
                         <p>Navbar & Tabs</p>
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a href="<?=site_url('charts/timeline')?>" class="nav-link">
+                    <a href="<?=site_url('ui_elements/timeline')?>" class="nav-link">
                         <i class="far fa-circle nav-icon"></i>
                         <p>Timeline</p>
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a href="<?=site_url('charts/ribbons')?>" class="nav-link">
+                    <a href="<?=site_url('ui_elements/ribbons')?>" class="nav-link">
                         <i class="far fa-circle nav-icon"></i>
                         <p>Ribbons</p>
                     </a>
