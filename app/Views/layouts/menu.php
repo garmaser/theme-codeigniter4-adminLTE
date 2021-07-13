@@ -19,7 +19,7 @@
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a href="<?=site_url('home/dashboardv2')?>/index2')?>" class="nav-link">
+                    <a href="<?=site_url('home/dashboardv2')?>/index2" class="nav-link">
                         <i class="far fa-circle nav-icon"></i>
                         <p>Dashboard v2</p>
                     </a>
@@ -33,7 +33,7 @@
             </ul>
         </li>
         <li class="nav-item">
-            <a href="../widgets')?>" class="nav-link">
+            <a href="<?=site_url('widgets')?>" class="nav-link">
                 <i class="nav-icon fas fa-th"></i>
                 <p>
                     Widgets
@@ -52,13 +52,13 @@
             </a>
             <ul class="nav nav-treeview">
                 <li class="nav-item">
-                    <a href="<?=site_url('layout/top-nav')?>" class="nav-link">
+                    <a href="<?=site_url('layout/top_nav')?>" class="nav-link">
                         <i class="far fa-circle nav-icon"></i>
                         <p>Top Navigation</p>
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a href="<?=site_url('layout/top-nav-sidebar')?>" class="nav-link">
+                    <a href="<?=site_url('layout/top_nav_sidebar')?>" class="nav-link">
                         <i class="far fa-circle nav-icon"></i>
                         <p>Top Navigation + Sidebar</p>
                     </a>
@@ -70,31 +70,31 @@
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a href="<?=site_url('layout/fixed-sidebar')?>" class="nav-link">
+                    <a href="<?=site_url('layout/fixed_sidebar')?>" class="nav-link">
                         <i class="far fa-circle nav-icon"></i>
                         <p>Fixed Sidebar</p>
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a href="<?=site_url('layout/fixed-sidebar-custom')?>" class="nav-link">
+                    <a href="<?=site_url('layout/fixed_sidebar_custom')?>" class="nav-link">
                         <i class="far fa-circle nav-icon"></i>
                         <p>Fixed Sidebar <small>+ Custom Area</small></p>
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a href="<?=site_url('layout/fixed-topnav')?>" class="nav-link">
+                    <a href="<?=site_url('layout/fixed_topnav')?>" class="nav-link">
                         <i class="far fa-circle nav-icon"></i>
                         <p>Fixed Navbar</p>
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a href="<?=site_url('layout/fixed-footer')?>" class="nav-link">
+                    <a href="<?=site_url('layout/fixed_footer')?>" class="nav-link">
                         <i class="far fa-circle nav-icon"></i>
                         <p>Fixed Footer</p>
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a href="<?=site_url('layout/collapsed-sidebar')?>" class="nav-link">
+                    <a href="<?=site_url('layout/collapsed_sidebar')?>" class="nav-link">
                         <i class="far fa-circle nav-icon"></i>
                         <p>Collapsed Sidebar</p>
                     </a>
@@ -252,7 +252,7 @@
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a href="tables/jsgrid')?>" class="nav-link">
+                    <a href="<?=site_url('tables/jsgrid')?>" class="nav-link">
                         <i class="far fa-circle nav-icon"></i>
                         <p>jsGrid</p>
                     </a>
@@ -307,7 +307,7 @@
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a href="<?=site_url('mailbox/read-mail')?>" class="nav-link">
+                    <a href="<?=site_url('mailbox/read_mail')?>" class="nav-link">
                         <i class="far fa-circle nav-icon"></i>
                         <p>Read</p>
                     </a>
@@ -336,7 +336,7 @@
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a href="<?=site_url('examples/e-commerce')?>" class="nav-link">
+                    <a href="<?=site_url('examples/e_commerce')?>" class="nav-link">
                         <i class="far fa-circle nav-icon"></i>
                         <p>E-commerce</p>
                     </a>
@@ -348,19 +348,19 @@
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a href="<?=site_url('examples/project-add')?>" class="nav-link">
+                    <a href="<?=site_url('examples/project_add')?>" class="nav-link">
                         <i class="far fa-circle nav-icon"></i>
                         <p>Project Add</p>
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a href="<?=site_url('examples/project-edit')?>" class="nav-link">
+                    <a href="<?=site_url('examples/project_edit')?>" class="nav-link">
                         <i class="far fa-circle nav-icon"></i>
                         <p>Project Edit</p>
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a href="<?=site_url('examples/project-detail')?>" class="nav-link">
+                    <a href="<?=site_url('examples/project_detail')?>" class="nav-link">
                         <i class="far fa-circle nav-icon"></i>
                         <p>Project Detail</p>
                     </a>
@@ -378,7 +378,7 @@
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a href="<?=site_url('examples/contact-us')?>" class="nav-link">
+                    <a href="<?=site_url('examples/contact_us')?>" class="nav-link">
                         <i class="far fa-circle nav-icon"></i>
                         <p>Contact us</p>
                     </a>
@@ -416,13 +416,13 @@
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a href="<?=site_url('examples/forgot-password')?>" class="nav-link">
+                            <a href="<?=site_url('examples/forgot_password')?>" class="nav-link">
                                 <i class="far fa-circle nav-icon"></i>
                                 <p>Forgot Password v1</p>
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a href="<?=site_url('examples/recover-password')?>" class="nav-link">
+                            <a href="<?=site_url('examples/recover_password')?>" class="nav-link">
                                 <i class="far fa-circle nav-icon"></i>
                                 <p>Recover Password v1</p>
                             </a>
@@ -439,25 +439,25 @@
                     </a>
                     <ul class="nav nav-treeview">
                         <li class="nav-item">
-                            <a href="<?=site_url('examples/login-v2')?>" class="nav-link">
+                            <a href="<?=site_url('examples/login_v2')?>" class="nav-link">
                                 <i class="far fa-circle nav-icon"></i>
                                 <p>Login v2</p>
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a href="<?=site_url('examples/register-v2')?>" class="nav-link">
+                            <a href="<?=site_url('examples/register_v2')?>" class="nav-link">
                                 <i class="far fa-circle nav-icon"></i>
                                 <p>Register v2</p>
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a href="<?=site_url('examples/forgot-password-v2')?>" class="nav-link">
+                            <a href="<?=site_url('examples/forgot_password_v2')?>" class="nav-link">
                                 <i class="far fa-circle nav-icon"></i>
                                 <p>Forgot Password v2</p>
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a href="<?=site_url('examples/recover-password-v2')?>" class="nav-link">
+                            <a href="<?=site_url('examples/recover_password_v2')?>" class="nav-link">
                                 <i class="far fa-circle nav-icon"></i>
                                 <p>Recover Password v2</p>
                             </a>
@@ -471,25 +471,25 @@
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a href="<?=site_url('examples/legacy-user-menu')?>" class="nav-link">
+                    <a href="<?=site_url('examples/legacy_user_menu')?>" class="nav-link">
                         <i class="far fa-circle nav-icon"></i>
                         <p>Legacy User Menu</p>
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a href="<?=site_url('examples/language-menu')?>" class="nav-link">
+                    <a href="<?=site_url('examples/language_menu')?>" class="nav-link">
                         <i class="far fa-circle nav-icon"></i>
                         <p>Language Menu</p>
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a href="<?=site_url('examples/404')?>" class="nav-link">
+                    <a href="<?=site_url('examples/error_404')?>" class="nav-link">
                         <i class="far fa-circle nav-icon"></i>
                         <p>Error 404</p>
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a href="<?=site_url('examples/500')?>" class="nav-link">
+                    <a href="<?=site_url('examples/error_500')?>" class="nav-link">
                         <i class="far fa-circle nav-icon"></i>
                         <p>Error 500</p>
                     </a>
