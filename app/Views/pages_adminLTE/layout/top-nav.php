@@ -1,4 +1,4 @@
-<?= $this->extend('layouts/admin') ?>
+<?= $this->extend('layouts/top-nav') ?>
 
 <?= $this->section('pagestyles') ?>
 <!-- INICIO: Page CSS-->

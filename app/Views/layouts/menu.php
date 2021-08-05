@@ -13,19 +13,19 @@
             </a>
             <ul class="nav nav-treeview">
                 <li class="nav-item">
-                    <a href="<?=site_url('home')?>" class="nav-link">
+                    <a href="<?=site_url('dashboard')?>" class="nav-link">
                         <i class="far fa-circle nav-icon"></i>
                         <p>Dashboard v1</p>
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a href="<?=site_url('home/dashboardv2')?>/index2" class="nav-link">
+                    <a href="<?=site_url('dashboard/dashboardv2')?>" class="nav-link">
                         <i class="far fa-circle nav-icon"></i>
                         <p>Dashboard v2</p>
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a href="<?=site_url('home/dashboardv3')?>" class="nav-link">
+                    <a href="<?=site_url('dashboard/dashboardv3')?>" class="nav-link">
                         <i class="far fa-circle nav-icon"></i>
                         <p>Dashboard v3</p>
                     </a>
