@@ -31,7 +31,7 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="mailbox.html" class="btn btn-primary btn-block mb-3">Back to Inbox</a>
+                    <a href="<?= site_url('mailbox') ?>" class="btn btn-primary btn-block mb-3">Back to Inbox</a>
 
                     <div class="card">
                         <div class="card-header">

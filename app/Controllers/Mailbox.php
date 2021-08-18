@@ -6,7 +6,7 @@ class Mailbox extends BaseController
 {
 	public function index()
 	{
-		return view('pages_adminLTE/mailbox/compose');
+		return view('pages_adminLTE/mailbox/mailbox');
 	}
 
 	public function compose()
