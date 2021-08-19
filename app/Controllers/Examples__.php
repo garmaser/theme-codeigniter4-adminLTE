@@ -38,7 +38,14 @@ class Examples extends BaseController
 	{
 		return view('pages_adminLTE/examples/faq');
 	}
-	
+	public function forgot_password()
+	{
+		return view('pages_adminLTE/examples/forgot-password');
+	}
+	public function forgot_password_v2()
+	{
+		return view('pages_adminLTE/examples/forgot-password-v2');
+	}
 	public function invoice()
 	{
 		return view('pages_adminLTE/examples/invoice');
@@ -59,47 +66,14 @@ class Examples extends BaseController
 	{
 		return view('pages_adminLTE/examples/lockscreen');
 	}
-
-	// Login v1
 	public function login()
 	{
 		return view('pages_adminLTE/examples/login');
 	}
-	public function register()
-	{
-		return view('pages_adminLTE/examples/register');
-	}
-	public function forgot_password()
-	{
-		return view('pages_adminLTE/examples/forgot-password');
-	}
-	public function recover_password()
-	{
-		return view('pages_adminLTE/examples/recover-password');
-	}
-	
-	
-
-	// Login v2
 	public function login_v2()
 	{
 		return view('pages_adminLTE/examples/login-v2');
 	}
-	public function register_v2()
-	{
-		return view('pages_adminLTE/examples/register-v2');
-	}
-	public function forgot_password_v2()
-	{
-		return view('pages_adminLTE/examples/forgot-password-v2');
-	}
-	public function recover_password_v2()
-	{
-		return view('pages_adminLTE/examples/recover-password-v2');
-	}
-
-
-	//---------
 	public function pace()
 	{
 		return view('pages_adminLTE/examples/pace');
@@ -124,8 +98,22 @@ class Examples extends BaseController
 	{
 		return view('pages_adminLTE/examples/projects');
 	}
-	
-	
+	public function recover_password()
+	{
+		return view('pages_adminLTE/examples/recover-password');
+	}
+	public function recover_password_v2()
+	{
+		return view('pages_adminLTE/examples/recover-password-v2');
+	}
+	public function register()
+	{
+		return view('pages_adminLTE/examples/register');
+	}
+	public function register_v2()
+	{
+		return view('pages_adminLTE/examples/register-v2');
+	}
 
 	//--------------------------------------------------------------------
 
